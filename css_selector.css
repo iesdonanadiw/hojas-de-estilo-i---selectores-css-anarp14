@@ -1,0 +1,27 @@
+.primero{
+    color: blueviolet;
+}
+p.primero{
+    color:aquamarine;
+}
+section.primero{
+    color:blue
+}
+#paco{
+    color:brown;
+ }
+p#segundo{
+    color:pink;
+}
+.primero span{
+    color:yellow;
+}
+.primero > span{
+    color:purple;
+}
+span .primero{
+    color:orange;
+}
+.primero.parte{
+    color:green;
+}
